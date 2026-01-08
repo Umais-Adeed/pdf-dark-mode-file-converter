@@ -3,6 +3,8 @@
 A secure, local, and private tool to convert documents (PDF, DOCX, PPTX, Images) and apply Dark Mode to PDFs. 
 **100% Offline – Your files never leave your device.**
 
+![App Preview](image.png)
+
 Built by [Umais Adeed](https://github.com/Umais-Adeed).
 
 ## Features
